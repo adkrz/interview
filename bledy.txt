@@ -1,0 +1,17 @@
+bledy:
+mutable default argument
+with dla plikow i bazy
+log sie przepisuje na nowo
+srednia z pustego pliku sie wywali
+sql injection
+are_equal if count < 2
+float comparisons
+
+usprawnienia:
+pandas ma wbudowane mean()
+mozna podac kodowanie csvki
+duplikaty
+
+opcjonalne zmiany skladni:
+if name == main
+exception handling
