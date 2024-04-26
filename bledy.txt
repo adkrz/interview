@@ -11,6 +11,7 @@ usprawnienia:
 pandas ma wbudowane mean()
 mozna podac kodowanie csvki
 duplikaty
+commit raz na koniec
 
 opcjonalne zmiany skladni:
 if name == main
